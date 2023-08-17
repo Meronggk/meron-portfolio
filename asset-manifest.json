@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.480b80fa.css",
+    "main.js": "/portfolio/static/js/main.ba5d4880.js",
+    "static/media/HomePage.png": "/portfolio/static/media/HomePage.df9658320a5383a73bb9.png",
+    "static/media/animation.png": "/portfolio/static/media/animation.6fe94f9aa2e7f249837c.png",
+    "static/media/CyfHotel.png": "/portfolio/static/media/CyfHotel.ebfe589cf7619c3e6e8b.png",
+    "static/media/TvShow.png": "/portfolio/static/media/TvShow.b09e7912b0baaece45dc.png",
+    "static/media/meron_cv.pdf": "/portfolio/static/media/meron_cv.8ccb96f84c10b98e8ab4.pdf",
+    "static/media/Meron.png": "/portfolio/static/media/Meron.bd06ea99603a18e4f065.png",
+    "static/media/NamePicker.png": "/portfolio/static/media/NamePicker.7eb8ea65aff87f9de8a1.png",
+    "index.html": "/portfolio/index.html",
+    "main.480b80fa.css.map": "/portfolio/static/css/main.480b80fa.css.map",
+    "main.ba5d4880.js.map": "/portfolio/static/js/main.ba5d4880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.480b80fa.css",
+    "static/js/main.ba5d4880.js"
+  ]
+}
