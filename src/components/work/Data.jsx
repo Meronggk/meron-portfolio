@@ -48,17 +48,4 @@ export const projectsData = [
 
 ];
 
-// export const projectsNav = [
-//   {
-//     name: 'all',
-//   },
-//   {
-//     name: 'e-commerce',
-//   },
-//   {
-//     name: 'landing',
-//   },
-//   {
-//     name: 'app',
-//   },
-// ]
+
