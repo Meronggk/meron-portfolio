@@ -5,6 +5,7 @@ import { WorkItem } from './WorkItem';
 // import classNames from 'classnames';
 
 export const Works = () => {
+  // eslint-disable-next-line no-unused-vars
   const [currentTab, setCurrentTab] = useState('all');
   const [projects, setProjects] = useState(projectsData);
 
