@@ -56,7 +56,7 @@ export const TechSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Python</h3>
+              <h3className="skills__name">Python</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div> */}
