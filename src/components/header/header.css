@@ -118,10 +118,10 @@
   
   .nav__logo {
     color: transparent;
-    /* background: url('../../assets/logo.svg'); */
+    background: url('../../assets/logo.svg'); 
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-color: red; */
+    /* background-color: rgb(233, 208, 208); */
     width: 200px;
     height: 100%;
   }
