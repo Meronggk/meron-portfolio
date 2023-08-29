@@ -42,24 +42,6 @@ export const TechSkills = () => {
             </div>
           </div>
 
-          {/* <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Redux</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div> */}
-
-
-{/* <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3className="skills__name">Python</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div> */}
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
@@ -69,11 +51,7 @@ export const TechSkills = () => {
               <span className="skills__level">Intemediate</span>
             </div>
           </div>
-
-
-
-
-
+          
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
 
@@ -82,24 +60,6 @@ export const TechSkills = () => {
               <span className="skills__level">Basic</span>
             </div>
           </div>
-
-          {/* <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Vue</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div> */}
-
-          {/* <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Angular</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div> */}
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>

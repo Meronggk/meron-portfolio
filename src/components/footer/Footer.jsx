@@ -1,13 +1,13 @@
 import React from 'react';
 import './footer.css';
-// import Logo from '../../assets/logo.svg';
+import Logo from '../../assets/logo.svg';
 
 export const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
         <h1 className="footer__title">
-          {/* <img src={Logo} alt="Vyrsta" /> */}
+          <img src={Logo} alt="meron" />
         </h1>
 
         <ul className="footer__list">
