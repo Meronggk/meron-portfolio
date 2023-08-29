@@ -34,13 +34,13 @@ export const projectsData = [
     image: HomePage,
     title: 'Attendance Tracker',
     code: 'https://github.com/Meronggk/codezilla-student-tracker',
-    demo: 'https://starter-kit-5h3s.onrender.com/'
+    demo: 'https://codezilla.merongg.me'
   },
  
   {
     id: 5,
     image: NamePicker,
-    title: 'Task manager',
+    title: 'Name Picker',
     code: 'https://github.com/Meronggk/name-picker',
     demo: 'https://meronggk.github.io/name-picker/'
   },
