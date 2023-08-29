@@ -51,7 +51,16 @@ export const TechSkills = () => {
               <span className="skills__level">Intemediate</span>
             </div>
           </div>
-          
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Mongodb</h3>
+              <span className="skills__level">Intemediate</span>
+            </div>
+          </div>
+
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
 
@@ -65,7 +74,16 @@ export const TechSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">CSS/ SCSS</h3>
+              <h3 className="skills__name">HTML</h3>
+              <span className="skills__level">Basic</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">CSS</h3>
               <span className="skills__level">Intemediate</span>
             </div>
           </div>
@@ -74,7 +92,43 @@ export const TechSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">GCP, AWS, Digitalocean, Docker</h3>
+              <h3 className="skills__name">SCSS</h3>
+              <span className="skills__level">Intemediate</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">GCP</h3>
+              <span className="skills__level">Intemediate</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">AWS</h3>
+              <span className="skills__level">Intemediate</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Digitalocean</h3>
+              <span className="skills__level">Intemediate</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Docker</h3>
               <span className="skills__level">Intemediate</span>
             </div>
           </div>
