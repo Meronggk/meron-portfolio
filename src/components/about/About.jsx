@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import Meron from '../../assets/Meron.png';
+import Meron_1 from '../../assets/Meron_1.jpg';
 import CV from '../../assets/meron_cv.pdf';
 import { Info } from './Info';
 
@@ -11,7 +11,14 @@ export const About = () => {
       <span className="section__subtitle">My introduction</span>
 
       <div className="about__container container grid">
-        <img src={Meron} alt="Meron" className="about" />
+        <img src={Meron_1} 
+style = {{width: '25em',
+  padding: '1em',
+  backgroundColor: 'white',
+  boxShadow: '5px 5px 5px 2px',
+  transform: 'rotate(-4deg)'}}
+    
+alt="Meron" className="about" />
 
         <div className="about__data">
           <Info />
