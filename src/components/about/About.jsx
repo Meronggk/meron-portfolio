@@ -17,13 +17,11 @@ export const About = () => {
           <Info />
 
           <p className="about__description">
-            Developing accessible, cross-browser-compatible landing pages and
-            multi-page websites using pure JavaScript and frameworks while
-            adhering to SEO and accessibility best practices. Writing SQL
-            queries for database management. Developing server-side application
-            code and handling API requests. Solving algorithmic problems to
-            optimize website performance. Developing pixel-perfect design
-            implementations.
+          I'm a full-stack developer with a preference for React on the frontend and Node.js on the backend. 
+          I have an interest in DevOps and all things automation. I self-host my projects on my server (including this site!), 
+          which I package into containers and then route through an Nginx proxy. I'm also a big fan of hiking; you will be shown
+           pictures of my hiking trails.
+      
           </p>
 
           <a download="" href={CV} className="button button--flex">

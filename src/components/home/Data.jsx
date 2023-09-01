@@ -57,11 +57,11 @@ export const Data = () => {
       </h1>
 
       <h3 className="home__subtitle">Full-stack Developer</h3>
-      <p className="home__description">
-        I'm a full-stack software developer with 1+ years of web
+      {/* <p className="home__description">
+        {/* I'm a full-stack software developer with 1+ years of web
         development. I'm proficient in JavaScript, React, Node, Express and postgres. I have a passion for learning
-        new technologies and approaches.
-      </p>
+        new technologies and approaches. */}
+      {/* </p> */} 
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg
