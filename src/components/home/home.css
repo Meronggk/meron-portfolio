@@ -38,20 +38,20 @@
   .home__subtitle {
     position: relative;
     font-size: var(--h3-font-size);
-    padding-left: 0.5rem;
+    padding-left: 2rem;
     font-weight: var(--font-normal);
     margin-bottom: var(--mb-1);
   }
   
-  /* .home__subtitle::before {
+  .home__subtitle::before {
     content: '';
     position: absolute;
-    width: 70px;
+    width: 25px;
     height: 1px;
     left: 0;
     top: 1rem;
     background-color: var(--text-color);
-  } */
+  }
   
   .home__description {
     max-width: 400px;
